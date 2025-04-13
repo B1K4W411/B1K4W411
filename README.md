@@ -15,7 +15,7 @@
           <li>  Investment strategies</li>
           <li>  Languages<br></li></ul>
           <strong>Currently learning:</strong><span> Front-End Development</span><br>
-          <strong>Looking to collaborate on:</strong><span> Nothing at the moment. My priority is my current education.</span><br>
+          <strong>Looking to collaborate on:</strong><span> Depends on what I can collab about</span><br>
           <strong>How to reach me:</strong><span> https://t.me/Bikawaii</span></em>
     </article>
   </body> 
